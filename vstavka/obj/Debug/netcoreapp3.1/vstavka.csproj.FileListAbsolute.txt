@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\obj\Debug\netcoreapp3.1\vstavka.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\obj\Debug\netcoreapp3.1\vstavka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\obj\Debug\netcoreapp3.1\vstavka.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\obj\Debug\netcoreapp3.1\vstavka.AssemblyInfo.cs
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\obj\Debug\netcoreapp3.1\vstavka.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\bin\Debug\netcoreapp3.1\vstavka.exe
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\bin\Debug\netcoreapp3.1\vstavka.deps.json
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\bin\Debug\netcoreapp3.1\vstavka.runtimeconfig.json
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\bin\Debug\netcoreapp3.1\vstavka.runtimeconfig.dev.json
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\bin\Debug\netcoreapp3.1\vstavka.dll
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\bin\Debug\netcoreapp3.1\vstavka.pdb
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\obj\Debug\netcoreapp3.1\vstavka.dll
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\obj\Debug\netcoreapp3.1\vstavka.pdb
+C:\Users\user\Desktop\БГУИР\курсач ОАиП\vstavka\obj\Debug\netcoreapp3.1\vstavka.genruntimeconfig.cache
